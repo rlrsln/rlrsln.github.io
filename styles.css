@@ -91,25 +91,33 @@ a:hover {
 @media (min-width: 320px) and (max-width: 576px) {
 
     .profile-photo {
-        margin-top: 35px;
+        margin-top: 55px;
     }
 
     .title {
         font-family: 'Unbounded', cursive;
         margin-top: 10px;
-        margin-bottom: 25px;
-        font-size: 24px;
+        margin-bottom: 35px;
+        font-size: 44px;
     }
 
     .description {
-        font-size: 16px;
+        font-size: 22px;
     }
 
     .info {
-        margin-top: 40px;
+        margin-top: 60px;
         width: 100%;
         display: flex;
         justify-content: center;
+    }
+
+    .section-title {
+        font-size: 22px;
+    }
+
+    li {
+        font-size: 22px;
     }
 
     .contacts {
@@ -117,6 +125,6 @@ a:hover {
     }
 
     .activities {
-        margin-right: 60px;
+        margin-right: 70px;
     }
 }
