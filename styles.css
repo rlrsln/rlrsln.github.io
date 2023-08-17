@@ -94,15 +94,8 @@ a:hover {
         margin-top: 55px;
     }
 
-    .title {
-        font-family: 'Unbounded', cursive;
-        margin-top: 10px;
-        margin-bottom: 35px;
-        font-size: 44px;
-    }
-
     .description {
-        font-size: 22px;
+        font-size: 18px;
     }
 
     .info {
@@ -112,19 +105,11 @@ a:hover {
         justify-content: center;
     }
 
-    .section-title {
-        font-size: 22px;
-    }
-
-    li {
-        font-size: 22px;
-    }
-
     .contacts {
         margin-right: 0px;
     }
 
     .activities {
-        margin-right: 70px;
+        margin-right: 25%;
     }
 }
