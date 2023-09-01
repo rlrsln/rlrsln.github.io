@@ -1,0 +1,5 @@
+User-agent: *
+Crawl-delay: 1
+Host: https://www.rsln.one
+Sitemap: https://www.rsln.one/sitemap.xml
+
